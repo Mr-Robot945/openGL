@@ -1,0 +1,20 @@
+﻿Build started 11/27/2016 8:19:41 PM.
+     1>Project "C:\Users\ammar\Documents\Visual Studio 2013\Projects\OpenGL_Test\First\First\First.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"D:\Softwares\Libraries\freeglut-2.8.1\include" /I"D:\Softwares\Libraries\glm-0.9.6.1\glm" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main_3D.cpp
+         main_3D.cpp
+     1>c:\users\ammar\documents\visual studio 2013\projects\opengl_test\first\first\main_3d.cpp(59): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\ammar\documents\visual studio 2013\projects\opengl_test\first\first\main_3d.cpp(60): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\ammar\documents\visual studio 2013\projects\opengl_test\first\first\main_3d.cpp(62): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\ammar\documents\visual studio 2013\projects\opengl_test\first\first\main_3d.cpp(63): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\ammar\documents\visual studio 2013\projects\opengl_test\first\first\main_3d.cpp(87): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ammar\documents\visual studio 2013\projects\opengl_test\first\first\main_3d.cpp(105): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ammar\documents\visual studio 2013\projects\opengl_test\first\first\main_3d.cpp(142): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ammar\Documents\Visual Studio 2013\Projects\OpenGL_Test\First\Debug\First.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\Softwares\Libraries\freeglut-2.8.1\lib\x86\Debug" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\ammar\Documents\Visual Studio 2013\Projects\OpenGL_Test\First\Debug\First.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ammar\Documents\Visual Studio 2013\Projects\OpenGL_Test\First\Debug\First.lib" /MACHINE:X86 Debug\main_3D.obj
+         First.vcxproj -> C:\Users\ammar\Documents\Visual Studio 2013\Projects\OpenGL_Test\First\Debug\First.exe
+     1>Done Building Project "C:\Users\ammar\Documents\Visual Studio 2013\Projects\OpenGL_Test\First\First\First.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.40
